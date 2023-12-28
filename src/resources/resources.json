@@ -1,0 +1,12 @@
+{
+  "currencyCodes": ["USD", "EUR", "GBP", "CZK", "UAH", "CHF", "NOK", "DKK"],
+  "decimalRounding": 2,
+  "updateFrequency": 6000000,
+  "texts": {
+    "headerTitle": "Zloto Mierz",
+    "headerSubtitle": "Dane są automatycznie aktualizowane co minutę"
+  },
+  "errorScreenMessage": "Упс! Что-то пошло не так. Но не волнуйтесь, мы уже работаем над этим. Пожалуйста, попробуйте еще раз чуть позже.",
+  "retryButtonTitle": "Попробовать снова",
+  "maxRecursiveCalls": 7
+}
